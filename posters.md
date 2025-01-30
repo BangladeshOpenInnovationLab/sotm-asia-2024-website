@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "2024 Posters"
 titlecontent: ""
-headings: "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16"
+headings: "1,2,3,4,5,6,8,9,10,11,12,13,14,15,16"
 ---
 
 <style>
@@ -60,12 +60,6 @@ Many followed the call for posters and the results are AMAZING. We thank all par
 
 [<img src="/img/posters/06.jpg">](/poster/Green%20Wave%20ProjectAn%20Innovative%20Approach%20for%20Interactive%20Drought%20Management%20in%20the%20Barind%20Region_Yeamun_hasan_soumick%20-%20The%20Yeamun%20Hasan%20Soumick.pdf)
 
-
-
-<h2 id="7">GroupMappers: a collaborative initiative for village mapping and developing an integrated geospatial dashboard to enhance health surveillance and planning in Southeast Bangladesh.</h2>
-<h3>GroupMappers</h3>
-
-[<img src="/img/posters/07.jpg">](/poster/GroupMappers%20a%20collaborative%20initiative%20for%20village%20mapping%20and%20developing%20an%20integrated%20geospatial%20dashboard%20to%20enhance%20health%20surveillance%20and%20planning%20in%20Southeast%20Bangladesh.%20-%20Hasibul%20Ahmed%20Pulok.pdf)
 
 
 
